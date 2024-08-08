@@ -25,7 +25,7 @@ export const sendMessage = async (req,res) => {
             console.log("message sent");
         }
 
-        //socket functionnality here 
+        //socket functionality here 
 
         //await Conversation.save();
         //await newMessage.save();
